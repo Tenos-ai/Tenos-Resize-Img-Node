@@ -20,7 +20,7 @@ A zero‑nonsense ComfyUI node that resizes every incoming image (or batch) so t
    Save `tenos_image_resize_target_pixels.py` into:
 
    ```text
-   ComfyUI/custom_nodes/tenos_nodes/
+   ComfyUI/custom_nodes/
    ```
 
    (Create the folder if it doesn’t exist.)
