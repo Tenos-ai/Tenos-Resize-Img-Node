@@ -11,4 +11,4 @@ Repository = "https://github.com/Tenos-ai/Tenos-Resize-to-1-M-Pixels"
 [tool.comfy]
 PublisherId = "tenosai"
 DisplayName = "Tenos_Resize_to_1M_Pixels"
-Icon = ""
+Icon = "https://avatars.githubusercontent.com/u/207890088?v=4&size=40"
