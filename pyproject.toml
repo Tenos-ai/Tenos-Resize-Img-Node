@@ -1,7 +1,7 @@
 [project]
 name = "Tenos_Resize_to_1M_Pixels"
 description = "A zero nonsense ComfyUI node that resizes every incoming image (or batch) so the final resolution hovers around one million pixels—while respecting the original aspect ratio and snapping both dimensions to multiples of 64. Perfect for pipelines that need a predictable VRAM footprint without destroying composition."
-version = "1.0.0"
+version = "1.0.1"
 license = {file = "LICENSE"}
 
 [project.urls]
